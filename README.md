@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Yash Patil
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yash%20Patil&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Developer%20%7C%20TECH%20TITANS%20🚀&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=27AE60&center=true&vCenter=true&width=500&lines=AI+%26+ML+Developer+%F0%9F%A4%96;Python+%7C+Streamlit+%7C+Scikit-learn;Built+CropSense+AI+%F0%9F%8C%BE;TECH+TITANS+%F0%9F%9A%80;Maharashtra%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=27AE60&center=true&vCenter=true&width=600&height=60&lines=👋+Hi+there!+I'm+Yash+Patil;🤖+AI+%26+ML+Developer;🌾+Built+CropSense+AI+with+SVM;🐍+Python+%7C+Streamlit+%7C+Scikit-learn;🚀+TECH+TITANS+%7C+Maharashtra%2C+India" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashpatil-ai)
-[![GitHub followers](https://img.shields.io/github/followers/yash-patil-ai?label=Follow&style=for-the-badge&color=27ae60)](https://github.com/yash-patil-ai)
-[![Profile Views](https://komarev.com/ghpvc/?username=yash-patil-ai&style=for-the-badge&color=27ae60)](https://github.com/yash-patil-ai)
+[![GitHub followers](https://img.shields.io/github/followers/yash-patil-ai?label=Follow&style=for-the-badge&color=27ae60&logo=github)](https://github.com/yash-patil-ai)
+[![Profile Views](https://komarev.com/ghpvc/?username=yash-patil-ai&style=for-the-badge&color=27ae60&label=Profile+Views)](https://github.com/yash-patil-ai)
 
 </div>
 
@@ -16,23 +16,42 @@
 
 ## 🙋 About Me
 
-```python
-class YashPatil:
-    def __init__(self):
-        self.name       = "Yash Patil"
-        self.role       = "AI & ML Developer"
-        self.team       = "TECH TITANS 🚀"
-        self.location   = "Maharashtra, India 🇮🇳"
-        self.languages  = ["Python", "SQL"]
-        self.frameworks = ["Streamlit", "Scikit-learn", "Plotly", "Pandas", "NumPy"]
-        self.interests  = ["Machine Learning", "Data Science", "AI Applications"]
-        self.currently  = "Building CropSense AI 🌾"
+<img align="right" width="340" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df1ba7027c5c4e07d0459d2/raw/043e8e6a8ce5b3c4c6c4de75ad4e8ac9f74aba1a/programming.gif" />
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together.")
+### 👨‍💻 Who am I?
 
-me = YashPatil()
-me.say_hi()
+🎓 &nbsp; Passionate **AI & ML Developer** from Maharashtra, India  
+🌾 &nbsp; Creator of **CropSense AI** — Smart Crop Prediction System  
+🚀 &nbsp; Proud member of **TECH TITANS** team  
+🔬 &nbsp; Love turning data into real-world solutions  
+🌱 &nbsp; Currently learning **Deep Learning & Neural Networks**  
+💡 &nbsp; Always curious, always building!
+
+<br/>
+
+### ⚡ Quick Facts
+
+| | |
+|---|---|
+| 🏠 **Location** | Maharashtra, India 🇮🇳 |
+| 💼 **Role** | AI & ML Developer |
+| 🎯 **Focus** | Machine Learning · Data Science |
+| 🌾 **Latest Project** | CropSense AI (SVM-based crop predictor) |
+| 💬 **Ask me about** | Python · ML · Streamlit · SVM |
+| 📫 **Connect** | [LinkedIn](https://www.linkedin.com/in/yashpatil-ai) |
+| ⚡ **Fun fact** | I taught a machine to predict crops 🌽 |
+
+<br clear="right"/>
+
+---
+
+### 🎯 What I'm up to
+
+```text
+🌾  Building    CropSense AI ████████████░░░░░░░  65%
+📚  Learning    Deep Learning ██████░░░░░░░░░░░░░  30%
+🛠️  Exploring   Data Science  █████████░░░░░░░░░░  45%
+🚀  Deploying   Streamlit App ███████████░░░░░░░░  55%
 ```
 
 ---
